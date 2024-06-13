@@ -1,0 +1,12 @@
+# Exclude the following dirs
+
+/.ipynb_checkpoints
+/.venv
+
+.idea/.gitignore
+.idea/SignsLanguage.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
